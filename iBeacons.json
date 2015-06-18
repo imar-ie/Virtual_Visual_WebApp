@@ -1,0 +1,25 @@
+{
+    "iBeacons": [ 
+        {
+            "uuid": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0", 
+            "identifier": "black", 
+            "major": "0", 
+            "minor": "0", 
+            "txCalibrated":"-59"
+        }, 
+        {
+            "uuid": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0", 
+            "identifier": "champion", 
+            "major": "2", 
+            "minor": "1", 
+            "txCalibrated":"-59"
+        },
+        {
+            "uuid": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0", 
+            "identifier": "kevin", 
+            "major": "36582", 
+            "minor": "58543", 
+            "txCalibrated":"-57"
+        }
+    ]
+}

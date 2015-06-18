@@ -1,0 +1,28 @@
+<!doctype html>
+<html ng-app="visualApp">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="Pragma" content="no-cache"/>
+	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<center>
+		<h1>Virtual Visual</h1>
+	</center>
+	<div id="menu">
+		<ul class="nav nav-tabs nav-justified">
+			<li role="List of iBeacons"><a href="#/ibeacons">IBeacons list</a></li>
+			<li role="presentation"><a href="#/add">Add an iBeacon</a></li>
+		</ul>
+	</div>
+	<div ng-view></div>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+	<script src="https://code.angularjs.org/1.2.16/angular-route.min.js"></script>
+	<script src="app.js"></script>
+	<script src="controller.js"></script>
+	<script src="iBeacons.js"></script>
+	<script src="bootstrap/js/jquery.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>

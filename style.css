@@ -1,0 +1,15 @@
+#menu {
+	margin-bottom: 2%;
+	margin-top: 4%;
+}
+
+#tableAdd td {
+	border-style: none;
+	width: 5%;
+	/*text-align: center;*/
+}
+
+#maTable {
+	margin-left: 20%;
+	margin-right: 20%;
+}

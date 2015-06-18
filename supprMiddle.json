@@ -1,0 +1,18 @@
+{
+    "iBeacons": {
+        "0": {
+            "uuid": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+            "identifier": "black",
+            "major": "0",
+            "minor": "0",
+            "txCalibrated": "-59"
+        },
+        "2": {
+            "uuid": "F8AD3E82-0D91-4D9B-B5C7-7324744B2026",
+            "identifier": "kevin",
+            "major": "36582",
+            "minor": "58543",
+            "txCalibrated": "-57"
+        }
+    }
+}
